@@ -1,5 +1,4 @@
 rich
-outlines
 ipykernel
 ipywidgets
 python-dotenv
