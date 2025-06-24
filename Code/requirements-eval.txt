@@ -1,6 +1,6 @@
 rich
-ipykernel
-ipywidgets
+# ipykernel
+# ipywidgets
 python-dotenv
 hf_transfer
 transformers
